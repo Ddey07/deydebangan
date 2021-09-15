@@ -15,6 +15,7 @@ email: "ddey1@jhu.edu"
 highlight_name: true
 interests:
 - Wearables
+- Mobile Health
 - Spatial statistics
 - Ecological Momentary Assessment
 - Sports Analytics
@@ -46,14 +47,16 @@ superuser: true
 title: Debangan Dey
 ---
 
-I am a pre-doctoral fellow in the Genetic Epidemiology Research Branch of National Institutes of Mental Health and PhD candidate in Biostatistics at Johns Hopkins Bloomberg School of public health. My research involves developing methods to model mixed intensive longitudinal data and highly multivariate spatial data. My work has applications in wearables, ecological momentary assessment and environmental sciences.
+I am a pre-doctoral fellow in the Genetic Epidemiology Research Branch of National Institutes of Mental Health and PhD candidate in Biostatistics at Johns Hopkins Bloomberg School of public health. My research involves developing methods to model mixed intensive longitudinal data and highly multivariate spatial data. My work has applications in wearables, mobile health, ecological momentary assessment and environmental sciences.
 
-With my advisor {{< staticref "https://www.biostat.jhsph.edu/~vzipunni/" "newtab" >}} Dr. Vadim Zipunnikov {{< /staticref >}}, I am developing methods using semi-parametric Gaussian Copula to model mixed data coming from big health surveys and ecological momentary assessments. As a direct application of it, I am analyzing mobile health data coming from {{< staticref "http://mmarch.org/" "newtab" >}} mMarch consortium {{< /staticref >}} to investigate scientific questions at the intersection of physical activity, mental health and biochemical processes. This research is supervised by {< staticref "https://www.nimh.nih.gov/research/research-conducted-at-nimh/principal-investigators/kathleen-merikangas " "newtab" >}} Dr. Kathleen Merikangas {{< /staticref >}}. 
+With my advisor {{< staticref "https://www.biostat.jhsph.edu/~vzipunni/" "newtab" >}} Dr. Vadim Zipunnikov {{< /staticref >}}, I am developing methods using semi-parametric Gaussian Copula to model mixed data coming from big health surveys and ecological momentary assessments. As a direct application of it, I am analyzing mobile health data coming from {{< staticref "http://mmarch.org/" "newtab" >}} mMarch consortium {{< /staticref >}} to investigate scientific questions at the intersection of physical activity, mental health and biochemical processes. This research is done in collaboration with {{< staticref "https://www.nimh.nih.gov/research/research-conducted-at-nimh/principal-investigators/kathleen-merikangas" "newtab" >}} Dr. Kathleen Merikangas {{< /staticref >}}. 
 
 I am also working with my co-advisor {{< staticref "https://abhidatta.com/" "newtab" >}} Dr. Abhirup Datta {{< /staticref >}} to develop methods to model highly multivariate spatial data (both large number of variables and large number of locations). This has direct applications in modeling the distribution of multiple pollutants across many locations.  
 
-Previously, my research on physical activity got featured in Times ({{< staticref "https://time.com/4821963/teens-sedentary-lifestyle-exercise/" "newtab" >}}Teens Are Just As Sedentary As 60 Year Olds{{< /staticref >}}), Washington Post, WSJ, BBC, WPYR and others. I also like to combine my passion for soccer and statistics. You can find my multi-faceted analysis on FIFA World Cup 2018 data here: {{< staticref "https://ddey07.github.io/open-data/" "newtab" >}} The good, the bad and the ugly of the beautiful game. {{< /staticref >}}
+Previously, my research on physical activity got featured in Times ({{< staticref "https://time.com/4821963/teens-sedentary-lifestyle-exercise/" "newtab" >}}Teens Are Just As Sedentary As 60 Year Olds{{< /staticref >}}), Washington Post, WSJ, BBC, WPYR and others. 
 
-Outside work, I likes to play soccer, indulge in culinary adventures and travel around the world. 
+I also like to combine my passion for soccer and statistics. I have been actively working on soccer analytics for past five years. In 2018, I was part of a finalist team at the inaugural {{< staticref "https://www.ussoccer.com/stories/2018/07/inaugural-us-soccer-hackathon-brings-together-data-and-the-beautiful-game" "newtab" >}} US soccer hackathon {{< /staticref >}}, where we developed key metrics to judge defensive contributions in a game and also provided tools to create in-game substitution suggestions. Later on, I worked with {{< staticref "https://statsbomb.com/" "newtab" >}} Statsbomb {{< /staticref >}}  event data from FIFA World Cup 2018. Our contribution was to - (1) identify riskiest turnover locations for different formations, (2) find associations between pattern of play and effective shots, and (3) build dynamic in-game team level summary measures that are predictive of performance. You can find the details of the project here: {{< staticref "https://ddey07.github.io/open-data/" "newtab" >}} The good, the bad and the ugly of the beautiful game {{< /staticref >}}. 
+
+Outside work, I like to play soccer, indulge in culinary adventures and travel around the world. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_debangan.pdf" "newtab" >}}resumé{{< /staticref >}}.
