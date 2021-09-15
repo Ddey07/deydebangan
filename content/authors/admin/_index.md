@@ -5,7 +5,7 @@ education:
   - course: PhD in Biostatistics
     institution: Johns Hopkins Bloomberg School of Public Health
     year: 2022 (Expected)
-  - course: Master of Statistic
+  - course: Master of Statistics
     institution: Indian Statistical Institute
     year: 2017
   - course: Bachelor of Statistics
