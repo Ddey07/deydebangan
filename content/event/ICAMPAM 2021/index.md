@@ -16,6 +16,6 @@ url_slides: "debangandey.rbind.io/uploads/slides/ICAMPAM-2021-DD.pdf"
 url_video: ""
 links:
 - name: Slides
-  url: debangandey.rbind.io/uploads/slides/ICAMPAM-2021-DD.pdf
+  url: uploads/slides/ICAMPAM-2021-DD.pdf
 ---
 
