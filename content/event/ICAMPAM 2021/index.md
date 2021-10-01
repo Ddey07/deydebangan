@@ -6,8 +6,8 @@ date: "2021-06-23"
 event: ICAMPAM 2021 
 event_url: https://ismpb.org/icampam/
 featured: false
-slides: Using Mobile Technologies to Investigate Impaired Sleep, Mood, and Energy as Real-Time Triggers   of Migraine
-summary: An example talk using Wowchemy's Markdown slides feature.
+slides: demo
+summary: ICAMPAM 2021 by International Society for the Measurement of Physical Behaviour (ISMPB)
 tags: []
 title: Using Mobile Technologies to Investigate Impaired Sleep, Mood, and Energy as Real-Time Triggers    of Migraine
 url_code: ""
