@@ -1,5 +1,5 @@
 ---
-bio: My research interests include modeling mixed intensive lognitudinal data, highly multivariate spatial data, and its applications in wearables, ecological momentary assessments, environmental sciences and sports analytics.
+bio: My research interests include modeling mixed intensive longitudinal data, highly multivariate spatial data, and its applications in wearables, ecological momentary assessments, environmental sciences and sports analytics.
 education:
   courses:
   - course: PhD in Biostatistics
