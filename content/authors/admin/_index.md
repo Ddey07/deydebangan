@@ -98,7 +98,7 @@ skills:
       - name: R
         description: ''
         percent: 80
-        icon: r
+        icon: devicons/r
       - name: Data Science
         description: ''
         percent: 100

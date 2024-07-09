@@ -30,7 +30,7 @@ publication_types:
 
 # Publication name and optional abbreviated publication name.
 publication: '*Preventive medicine*'
-publication_short: 'Preventive medicine, (101), _pp. 102--108_, Article featured at [TIME](https://time.com/4821963/teens-sedentary-lifestyle-exercise/), Washington Post, WSJ, BBC, WPYR and others'
+publication_short: 'Article featured at <a href="https://time.com/4821963/teens-sedentary-lifestyle-exercise/" target="_blank">TIME</a>, Washington Post, WSJ, BBC, WPYR and others'
 
 doi: ''
 
@@ -74,4 +74,4 @@ image:
 projects: []
 ---
 
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
+Article featured at <a href="https://time.com/4821963/teens-sedentary-lifestyle-exercise/" target="_blank">TIME</a>, Washington Post, WSJ, BBC, WPYR and others
