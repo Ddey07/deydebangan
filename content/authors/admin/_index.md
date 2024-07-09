@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Researcher in DHTs
+title: Debangan Dey
 
 # Full name (for SEO)
 first_name: Debangan
