@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Researcher in Digital Health Technologies
+title: Researcher in DHTs
 
 # Full name (for SEO)
 first_name: Debangan
@@ -138,4 +138,4 @@ languages:
 ---
 ## About Me
   
-Debangan Dey is a postdoctoral fellow in the Genetic Epidemiology Research Branch of National Institutes of Mental Health at the lab of <a href="https://www.nimh.nih.gov/research/research-conducted-at-nimh/principal-investigators/kathleen-merikangas" target="_blank">Dr. Kathleen Merikangas</a>. He is leading the data science core of mMarch consortium where he investigates scientific questions at the intersection of physical activity, mental health and various biochemical processes. His research interests include modeling mixed intensive longitudinal data, highly multivariate spatial data, and its applications in wearables, ecological momentary assessments, environmental sciences and sports analytics.
+Debangan Dey is a postdoctoral fellow in the Genetic Epidemiology Research Branch of National Institutes of Mental Health at the lab of <a href="https://www.nimh.nih.gov/research/research-conducted-at-nimh/principal-investigators/kathleen-merikangas" target="_blank">Dr. Kathleen Merikangas</a> working on Digital Health Technologies (DHTs). He is leading the data science core of mMarch consortium where he investigates scientific questions at the intersection of physical activity, mental health and various biochemical processes. His research interests include modeling mixed intensive longitudinal data, highly multivariate spatial data, and its applications in wearables, ecological momentary assessments, environmental sciences and sports analytics.
