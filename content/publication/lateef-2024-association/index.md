@@ -31,7 +31,7 @@ publication_types:
 
 # Publication name and optional abbreviated publication name.
 publication: '*Neurology*'
-publication_short: 'Article featured at <a href="https://www.cnn.com/2024/01/24/health/migraine-predict-study-wellness/index.html" target="_blank">CNN</a>, <a href="https://www.nationalgeographic.com/premium/article/migraine-prediction-mood-energy-sleep-stress" target="_blank">Nat Geo</a>, NIH Director's blog and others'
+publication_short: 'Article featured at CNN, Nat Geo, NIH Director's blog and others'
 
 doi: ''
 

@@ -30,7 +30,7 @@ publication_types:
 
 # Publication name and optional abbreviated publication name.
 publication: '*Preventive medicine*'
-publication_short: 'Article featured at <a href="https://time.com/4821963/teens-sedentary-lifestyle-exercise/" target="_blank">TIME</a>, Washington Post, WSJ, BBC, WPYR and others'
+publication_short: 'Article featured at TIME, Washington Post, WSJ, BBC, WPYR and others'
 
 doi: ''
 
