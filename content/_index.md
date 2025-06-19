@@ -30,34 +30,6 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        <img title="" alt="" src="uploads/measure.png">
-        My research involves developing methods to model intensive longitudinal mixed datatype and highly multivariate spatial data. My work is driven by applications in wearables, digital health/mobile health, smartphone diaries, and environmental sciences. 
- 
-        My research interests also span to functional data analysis with its application on wearables. Specifically, my paper titled <a href="https://www.sciencedirect.com/science/article/abs/pii/S0091743517301949" target="_blank"> Re-evaluating the effect of age on physical activity over the lifespan</a> has made a significant impact in the field. The findings are not only interesting but have major public health implications. The work has been highlighted in press releases by Johns Hopkins Bloomberg School of public health and Johns Hopkins School of Medicine, respectively, and featured in major media outlets such as TIME <a href="https://time.com/4821963/teens-sedentary-lifestyle-exercise/" target="_blank">Teens Are Just As Sedentary As 60 Year Olds</a>, Washington Post, Wall Street Journal, BBC Radio and WPYR among others. In this work, we described circadian patterns of physical activity in the nationally representative data and identified different times throughout the day when activity was highest and lowest: These patterns could inform programs aimed at increasing physical activity by targeting age and sex-specific times, such as the morning for children and adolescents. 
-
-        With my co-advisor Dr. Abhirup Datta, I worked to develop methods to model highly multivariate spatial data (both large number of variables and large number of locations). This has direct applications in modeling the distribution of multiple pollutants across many locations.  
-
-        I also like to combine my passion for soccer and statistics. I have been actively working on <a href="https://ddey07.github.io/open-data/" target="_blank"> soccer analytics</a> for past five years. Outside work, I like to play soccer, indulge in culinary adventures and travel around the world. 
-
-        
-    design:
-      columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
   - block: collection
     content:
       title: Recent Publications
