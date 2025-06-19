@@ -5,8 +5,8 @@
 
 # Appearance
 appearance:
-  mode: system
-  color: zinc
+  mode: light
+  color: grayscale
 
 # SEO
 marketing:
